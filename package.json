@@ -1,0 +1,13 @@
+{
+  "name": "croc-navigation",
+  "version": "1.0.0",
+  "description": "A Custom Navigation WebComponent",
+  "main": "index.js",
+  "author": "Alex Crocker",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crock/croc-navigation.git"
+  }
+}
